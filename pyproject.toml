@@ -15,6 +15,7 @@ dependencies = [
     "streamlit>=1.39.0",
     "streamlit-webrtc>=0.47.9",
     "opencv-python-headless>=4.10.0.84",
+    "opencv-python>=4.10.0.84",
 ]
 requires-python = ">=3.11"
 readme = "README.md"
